@@ -6,5 +6,4 @@ class Triangle
     @b = b
     @c = c
   end
-
- 
+ end
